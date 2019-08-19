@@ -1,0 +1,25 @@
+<style>
+    input {
+        font-size: 18px;
+        font-family: Waree, Verdana;
+        width: 300px;
+        border: 2px solid #DDDDDD;
+        background-color: #FEFEFE;
+    }
+    input:focus {
+        border: 2px solid #AAAAAA;
+    }
+</style>
+<input type="text" id="nameField1" maxlength="10" placeholder="Player 1: Enter your name">
+<br>
+<br>
+<input type="text" id="nameField2" maxlength="10" placeholder="Player 2: Enter your name">
+<br>
+<br>
+<input type="text" id="nameField3" maxlength="10" placeholder="Player 3: Enter your name">
+<br>
+<br>
+<input type="text" id="nameField4" maxlength="10" placeholder="Player 4: Enter your name">
+<br>
+<br>
+<input type="text" id="points" oninput="this.value=this.value.replace(/[^0-9]/g,'');" maxlength="2" placeholder="Enter number of points to win">

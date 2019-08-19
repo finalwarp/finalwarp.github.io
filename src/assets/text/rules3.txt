@@ -1,0 +1,7 @@
+On your turn, a player can perform one of these actions:
+(1) Take 3 chips of different colors.
+(2) Take 2 chips of the same color. This is only possible of there are at least 4 chips of that color on the stack.
+
+(3) Reserve 1 development card and take 1 gold chip, if there are any remaining on the board.
+
+(4) Buy 1 face-up development card on the board or a reserved card they own.

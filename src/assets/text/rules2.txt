@@ -1,0 +1,9 @@
+PhaserSplendor is a chip-collection and card development game.
+
+Players collect different types of chips. With these chips, they purchase development cards, which are worth points and/or bonuses. Bonuses allow players to buy subsequent cards at a lower cost. When a player has enough bonuses, they immediately receive a visit from a noble (which is also worth points).
+
+
+
+
+
+Once a player has 15 points, the current round ends and the player with the most points is the winner.

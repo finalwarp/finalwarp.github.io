@@ -1,0 +1,6 @@
+When a player buys a card, the color of that card discounts the cost of new cards. If a player has 2 blue cards and wants to buy a card which costs 2 blue chips and 1 green chip, the player must only spend 1 green chip.
+
+
+
+
+At the end of their turn, a player can receive a noble tile if they have at least the quantity and type of bonuses indicated on the tile.

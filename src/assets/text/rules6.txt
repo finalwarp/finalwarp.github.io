@@ -1,0 +1,1 @@
+Once a player reaches 15 points, complete the current round so that each player has played the same number of turns. The player with the highest number of points is the winner. In case of a tie, the player who has purchased the fewest development cards wins.

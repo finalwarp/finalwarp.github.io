@@ -1,0 +1,264 @@
+{
+  "data": [
+    {
+      "color": "black",
+      "cost": {
+        "white": 3,
+        "blue": 3,
+        "green": 5,
+        "red": 3,
+        "black": 0,
+        "gold": 0
+      },
+      "points": 3,
+      "level": 3
+    },
+    {
+      "color": "black",
+      "cost": {
+        "white": 0,
+        "blue": 0,
+        "green": 0,
+        "red": 7,
+        "black": 0,
+        "gold": 0
+      },
+      "points": 4,
+      "level": 3
+    },
+    {
+      "color": "black",
+      "cost": {
+        "white": 0,
+        "blue": 0,
+        "green": 3,
+        "red": 6,
+        "black": 3,
+        "gold": 0
+      },
+      "points": 4,
+      "level": 3
+    },
+    {
+      "color": "black",
+      "cost": {
+        "white": 0,
+        "blue": 0,
+        "green": 0,
+        "red": 7,
+        "black": 3,
+        "gold": 0
+      },
+      "points": 5,
+      "level": 3
+    },
+    {
+      "color": "white",
+      "cost": {
+        "white": 0,
+        "blue": 3,
+        "green": 3,
+        "red": 5,
+        "black": 3,
+        "gold": 0
+      },
+      "points": 3,
+      "level": 3
+    },
+    {
+      "color": "white",
+      "cost": {
+        "white": 0,
+        "blue": 0,
+        "green": 0,
+        "red": 0,
+        "black": 7,
+        "gold": 0
+      },
+      "points": 4,
+      "level": 3
+    },
+    {
+      "color": "white",
+      "cost": {
+        "white": 3,
+        "blue": 0,
+        "green": 0,
+        "red": 3,
+        "black": 6,
+        "gold": 0
+      },
+      "points": 4,
+      "level": 3
+    },
+    {
+      "color": "white",
+      "cost": {
+        "white": 3,
+        "blue": 0,
+        "green": 0,
+        "red": 0,
+        "black": 7,
+        "gold": 0
+      },
+      "points": 5,
+      "level": 3
+    },
+    {
+      "color": "red",
+      "cost": {
+        "white": 3,
+        "blue": 5,
+        "green": 3,
+        "red": 0,
+        "black": 3,
+        "gold": 0
+      },
+      "points": 3,
+      "level": 3
+    },
+    {
+      "color": "red",
+      "cost": {
+        "white": 0,
+        "blue": 0,
+        "green": 7,
+        "red": 0,
+        "black": 0,
+        "gold": 0
+      },
+      "points": 4,
+      "level": 3
+    },
+    {
+      "color": "red",
+      "cost": {
+        "white": 0,
+        "blue": 3,
+        "green": 6,
+        "red": 3,
+        "black": 0,
+        "gold": 0
+      },
+      "points": 4,
+      "level": 3
+    },
+    {
+      "color": "red",
+      "cost": {
+        "white": 0,
+        "blue": 0,
+        "green": 7,
+        "red": 3,
+        "black": 0,
+        "gold": 0
+      },
+      "points": 5,
+      "level": 3
+    },
+    {
+      "color": "green",
+      "cost": {
+        "white": 5,
+        "blue": 3,
+        "green": 0,
+        "red": 3,
+        "black": 3,
+        "gold": 0
+      },
+      "points": 3,
+      "level": 3
+    },
+    {
+      "color": "green",
+      "cost": {
+        "white": 0,
+        "blue": 7,
+        "green": 0,
+        "red": 0,
+        "black": 0,
+        "gold": 0
+      },
+      "points": 4,
+      "level": 3
+    },
+    {
+      "color": "green",
+      "cost": {
+        "white": 3,
+        "blue": 6,
+        "green": 3,
+        "red": 0,
+        "black": 0,
+        "gold": 0
+      },
+      "points": 4,
+      "level": 3
+    },
+    {
+      "color": "green",
+      "cost": {
+        "white": 0,
+        "blue": 7,
+        "green": 3,
+        "red": 0,
+        "black": 0,
+        "gold": 0
+      },
+      "points": 5,
+      "level": 3
+    },
+    {
+      "color": "blue",
+      "cost": {
+        "white": 3,
+        "blue": 0,
+        "green": 3,
+        "red": 3,
+        "black": 5,
+        "gold": 0
+      },
+      "points": 3,
+      "level": 3
+    },
+    {
+      "color": "blue",
+      "cost": {
+        "white": 7,
+        "blue": 0,
+        "green": 0,
+        "red": 0,
+        "black": 0,
+        "gold": 0
+      },
+      "points": 4,
+      "level": 3
+    },
+    {
+      "color": "blue",
+      "cost": {
+        "white": 6,
+        "blue": 3,
+        "green": 0,
+        "red": 0,
+        "black": 3,
+        "gold": 0
+      },
+      "points": 4,
+      "level": 3
+    },
+    {
+      "color": "blue",
+      "cost": {
+        "white": 7,
+        "blue": 3,
+        "green": 0,
+        "red": 0,
+        "black": 0,
+        "gold": 0
+      },
+      "points": 5,
+      "level": 3
+    }
+  ]
+}
